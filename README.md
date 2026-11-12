@@ -16,7 +16,7 @@
 
 - 🎓 Software Engineering Student
 - 💻 Currently learning **C#, OOP, ASP.NET Core**
-- 🌐 Exploring **HTML, CSS, JavaScript**
+- 🌐 Exploring **HTML, CSS, JavaScript, PHP**
 - 🗄️ Learning **SQL Server & Databases**
 - 🇬🇧 Improving English for Software Development
 - 🎯 Goal: Become a Full-Stack Software Engineer
@@ -30,6 +30,7 @@
 ✔ Object-Oriented Programming (OOP)
 ✔ ASP.NET Core
 ✔ HTML / CSS / JavaScript
+✔ PHP
 ✔ SQL Server
 ✔ Git & GitHub
 ```
@@ -44,6 +45,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
