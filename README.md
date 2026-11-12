@@ -88,10 +88,11 @@
 - HTML
 - CSS
 - JavaScript
+- PHP
 
 ### 📌 Personal Portfolio Website
 - Responsive Design
-- HTML/CSS/JS
+- HTML/CSS/PHP/JS
 
 ---
 
